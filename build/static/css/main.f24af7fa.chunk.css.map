@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.scss"],"names":[],"mappings":"AAAA,EACE,qBAAA,CACA,kCAAA,CACA,iCAAA","file":"main.f24af7fa.chunk.css","sourcesContent":["* {\n  box-sizing: border-box;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}"]}

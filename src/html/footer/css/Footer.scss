@@ -1,0 +1,85 @@
+
+
+@media screen and (max-height: 1600px) {
+
+    footer {
+        height: 47vh;
+        background: rgb(83,152,212);
+        background: linear-gradient(90deg, rgba(83,152,212,1) 0%, rgba(83,152,212,1) 0%, rgba(83,152,212,1) 0%, rgba(236,186,163,1) 100%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 150px;
+
+        #contactUs_DIV {
+            margin-top: 30px;
+        }
+
+        #contactUs_DIV {
+            margin-top: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #contactUs_DIV {
+            margin-top: 30px;
+        }
+    }
+}
+
+@media screen and (max-height: 840px) {
+
+    footer {
+        height: 100vh;
+        background: rgb(83,152,212);
+        background: linear-gradient(90deg, rgba(83,152,212,1) 0%, rgba(83,152,212,1) 0%, rgba(83,152,212,1) 0%, rgba(236,186,163,1) 100%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 150px;
+
+        #contactUs_DIV {
+            margin-top: 30px;
+        }
+
+        #contactUs_DIV {
+            margin-top: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #contactUs_DIV {
+            margin-top: 30px;
+        }
+    }
+}
+
+@media screen and (max-height: 720px) {
+
+    footer {
+        height: 95vh;
+        background: rgb(83,152,212);
+        background: linear-gradient(90deg, rgba(83,152,212,1) 0%, rgba(83,152,212,1) 0%, rgba(83,152,212,1) 0%, rgba(236,186,163,1) 100%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 150px;
+
+        #contactUs_DIV {
+            margin-top: 30px;
+        }
+
+        #contactUs_DIV {
+            margin-top: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #contactUs_DIV {
+            margin-top: 30px;
+        }
+    }
+}

@@ -1,0 +1,115 @@
+@font-face {
+    font-family: DMSansMedium;
+    src: url("./Assets/Fonts/DM_Sans/DMSans-Medium.ttf");
+}
+
+h1 {
+    font-family: DMSansMedium;
+    font-weight: medium;
+    font-size: 100px;
+    line-height: 100%;
+}
+
+h2 {
+    font-family: DMSansMedium;
+    font-weight: medium;
+    font-size: 84px;
+    line-height: 110%;
+}
+
+h3 {
+    font-family: DMSansMedium;
+    font-weight: medium;
+    font-size: 64px;
+    line-height: 100%;
+}
+
+h4 {
+    font-family: DMSansMedium;
+    font-weight: medium;
+    font-size: 48px;
+    line-height: 110%;
+}
+
+h5 {
+    font-family: DMSansMedium;
+    font-weight: medium;
+    font-size: 32px;
+    line-height: 110%;
+}
+
+.p-large {
+    font-family: DMSansMedium;
+    font-weight: medium;
+    font-size: 18px;
+    line-height: 140%;
+}
+
+.p-medium {
+    font-family: DMSansMedium;
+    font-weight: medium;
+    font-size: 14px;
+    line-height: 160%;
+}
+
+.p-small {
+    font-family: DMSansMedium;
+    font-weight: medium;
+    font-size: 10px;
+    line-height: 160%;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.languages {
+    font-family: DMSansMedium;
+    font-weight: medium;
+    font-size: 12px;
+    line-height: 100%;
+}
+
+.white_COLOR {
+    color: white;
+}
+
+.black_COLOR {
+    color: black;
+}
+
+.grey_COLOR {
+    color: #777;
+}
+
+.blue_COLOR {
+    color: #5398D4;
+}
+
+.red_COLOR {
+    color: #ECBAA3;
+}
+
+.margin-top-large {
+    margin-top: 20px;
+}
+
+.cursor-pointer {
+    cursor: pointer
+}
+
+.ninetyDeg_ROTATE {
+    transform: rotate(90deg);
+}
+
+/* FORMS */
+
+.form_CONTAINER {
+    padding-top: 150px;
+}
+
+/* NEW */
+
+.form__container {
+    padding-top: 130px;
+}
